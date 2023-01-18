@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCashier</string>
+    <string name="btnEsTeh">Es Teh</string>
+    <string name="btnEsJeruk">Es Jeruk</string>
+    <string name="btnNasiPecel">Nasi Pecel</string>
+    <string name="btnNasiRawon">Nasi Rawon</string>
+    <string name="BtnBayar">Bayar</string>
+    <string name="BtnBatal">Batal</string>
+</resources>
